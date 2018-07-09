@@ -1,1 +1,1 @@
-# 9-block-challenge
+This was a challenge where we had to make 9 squares. All different colors, one with pic, and another with text. 
